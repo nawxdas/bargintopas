@@ -1,2 +1,0 @@
-# bargintopas
-Begin app
